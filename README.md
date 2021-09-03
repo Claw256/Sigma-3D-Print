@@ -1,7 +1,7 @@
 # Overwatch Sigma 3D Print
 This is the repo for my Overwatch Sigma Model which I indent to 3D print.
 
-This is a heavyily modified version of the Sigma Overwatch model. I intend this model to be used for non-commerical use, and for personal use only. Have fun :)
+This is a heavyily modified version of the Sigma Overwatch model. I intend this model to be used for non-commerical use, and for personal use only. You can find the `.blend` file for blender in the [blend](blend) folder. Have fun :)
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
