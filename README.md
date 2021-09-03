@@ -4,7 +4,6 @@ This is the repo for my Overwatch Sigma Model which I indent to 3D print.
 This is a heavyily modified version of the Sigma Overwatch model. I intend this model to be used for non-commerical use, and for personal use only. Have fun :)
 
 
-
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
